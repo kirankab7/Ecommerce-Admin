@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "544482303943",
+    "firebase_url": "https://ecommerce-app-ce88f-default-rtdb.firebaseio.com",
+    "project_id": "ecommerce-app-ce88f",
+    "storage_bucket": "ecommerce-app-ce88f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544482303943:android:17731ee6d2c19bd71703e2",
+        "android_client_info": {
+          "package_name": "com.grafocrate.ecommerceapp_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK_R6E-hu_BH1oUnu270_wLf8ZFQuGaNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
